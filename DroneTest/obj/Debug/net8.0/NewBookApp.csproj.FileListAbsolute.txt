@@ -1,0 +1,14 @@
+C:\Users\thewi\Desktop\NewBookApp\NewBookApp\bin\Debug\net8.0\NewBookApp.exe
+C:\Users\thewi\Desktop\NewBookApp\NewBookApp\bin\Debug\net8.0\NewBookApp.deps.json
+C:\Users\thewi\Desktop\NewBookApp\NewBookApp\bin\Debug\net8.0\NewBookApp.runtimeconfig.json
+C:\Users\thewi\Desktop\NewBookApp\NewBookApp\bin\Debug\net8.0\NewBookApp.dll
+C:\Users\thewi\Desktop\NewBookApp\NewBookApp\bin\Debug\net8.0\NewBookApp.pdb
+C:\Users\thewi\Desktop\NewBookApp\NewBookApp\obj\Debug\net8.0\NewBookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thewi\Desktop\NewBookApp\NewBookApp\obj\Debug\net8.0\NewBookApp.AssemblyInfoInputs.cache
+C:\Users\thewi\Desktop\NewBookApp\NewBookApp\obj\Debug\net8.0\NewBookApp.AssemblyInfo.cs
+C:\Users\thewi\Desktop\NewBookApp\NewBookApp\obj\Debug\net8.0\NewBookApp.csproj.CoreCompileInputs.cache
+C:\Users\thewi\Desktop\NewBookApp\NewBookApp\obj\Debug\net8.0\NewBookApp.dll
+C:\Users\thewi\Desktop\NewBookApp\NewBookApp\obj\Debug\net8.0\refint\NewBookApp.dll
+C:\Users\thewi\Desktop\NewBookApp\NewBookApp\obj\Debug\net8.0\NewBookApp.pdb
+C:\Users\thewi\Desktop\NewBookApp\NewBookApp\obj\Debug\net8.0\NewBookApp.genruntimeconfig.cache
+C:\Users\thewi\Desktop\NewBookApp\NewBookApp\obj\Debug\net8.0\ref\NewBookApp.dll

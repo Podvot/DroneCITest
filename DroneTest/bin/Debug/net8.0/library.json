@@ -1,0 +1,27 @@
+{
+  "Books": [
+    {
+      "Id": 1,
+      "Name": "How to program with Ib",
+      "Publisher": "Ib",
+      "PublishedYear": 2023,
+      "Loaned": true
+    }
+  ],
+  "Lenders": [
+    {
+      "Id": 1,
+      "Name": "Magnus",
+      "Address": "Himmelbjerget 3",
+      "LoanedBooks": [
+        {
+          "Id": 1,
+          "Name": "How to program with Ib",
+          "Publisher": "Ib",
+          "PublishedYear": 2023,
+          "Loaned": true
+        }
+      ]
+    }
+  ]
+}
